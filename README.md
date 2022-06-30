@@ -72,3 +72,4 @@ python manage.py runserver
 </td>
 </table>
 
+You can go to existing images by their pk, for example: http://127.0.0.1:8000/api/imageupload/1
