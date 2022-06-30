@@ -73,3 +73,4 @@ python manage.py runserver
 </table>
 
 You can go to existing images by their pk, for example: http://127.0.0.1:8000/api/imageupload/1
+By default, users are at tier "Basic". You can <python manage.py createsuperuser> and create the superuser, login into admin site http://127.0.0.1:8000/admin, and in folder "Users" change user tier or other settings.
