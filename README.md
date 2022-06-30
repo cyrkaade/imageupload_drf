@@ -1,7 +1,4 @@
 # imageupload_drf
-
-
-# imageupload_drf
 </div>
 
 ### Cloning the repository
